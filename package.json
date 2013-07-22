@@ -1,0 +1,24 @@
+{
+  "name": "heap-sort",
+  "version": "0.1.0",
+  "description": "Heap sort",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "binary-heap": "1.1.0",
+    "nodeunit": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/node-heap-sort.git"
+  },
+  "keywords": [
+    "sort",
+    "algorithm",
+    "heap sort"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
