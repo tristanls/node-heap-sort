@@ -6,8 +6,10 @@
     "test": "node scripts/test.js"
   },
   "main": "index.js",
+  "dependencies": {
+    "binary-heap": "1.1.0"
+  },
   "devDependencies": {
-    "binary-heap": "1.1.0",
     "nodeunit": "0.8.1"
   },
   "repository": {
